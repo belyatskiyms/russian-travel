@@ -2,7 +2,7 @@
 
 ### Обзор
 * Интро
-* GitHab
+* GitHub
 * Использованные технологии
 
 **Интро**
@@ -14,6 +14,7 @@
 **Figma**
 
 * [Ссылка на репозиторий на GitHab](https://github.com/belyatskiyms/russian-travel.git)
+* [Ссылка на GitHub Pages](https://russian-travel.github.io/)
 
 **Картинки**
 
