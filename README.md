@@ -11,7 +11,7 @@
 Адаптированный под различную ширину устройств.
 Информативный характер.
 
-**Figma**
+**GitHub**
 
 * [Ссылка на репозиторий на GitHab](https://github.com/belyatskiyms/russian-travel.git)
 * [Ссылка на GitHub Pages](https://russian-travel.github.io/)
