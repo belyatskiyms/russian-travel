@@ -1,0 +1,30 @@
+.motives{
+    max-width: 1184px;
+    min-height: 740px;
+    background-blend-mode: multiply;
+    background-image: url(../../images/motives-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 92px;
+    background-color: rgba(42, 44, 47, 0.3);
+}
+.motives:hover{
+    background-color: rgba(42, 44, 47, 0.8);
+}
+@media screen and (max-width: 1279px){
+    .motives{
+        min-height: 640px;
+    }
+}
+@media screen and (max-width: 1023px){
+    .motives{
+        min-height: 480px;
+    }
+}
+@media screen and (max-width: 779px){
+    .motives{
+        min-height: 200px;
+        margin-top: 64px;
+    }
+}

@@ -1,0 +1,15 @@
+.footer__author-info{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 779px){
+    .footer__author-info{
+        margin-top: 48px;
+        line-height: 1.0;
+    }
+}

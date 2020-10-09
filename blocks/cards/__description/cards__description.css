@@ -1,0 +1,25 @@
+.cards__description{
+    max-width: 456px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.63;
+    color: #FFFFFF;
+    padding-top: 24px;
+}
+.cards__description:first-of-type{
+    padding-top: 0;
+}
+@media screen and (max-width: 1023px){
+    .cards__description{
+        font-size: 16px;
+        max-width: 352px;
+    }
+}
+@media screen and (max-width: 779px){
+    .cards__description{
+        max-width: 288px;
+        margin-top: 32px;
+    }
+}

@@ -1,0 +1,9 @@
+.cards__header{
+    display: flex;
+    align-items: flex-end;
+}
+@media screen and (max-width: 779px){
+    .cards__header{
+        flex-direction: column;
+    }
+}

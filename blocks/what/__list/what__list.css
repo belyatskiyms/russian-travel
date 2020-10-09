@@ -1,0 +1,11 @@
+.what__list{
+    list-style: none;
+    padding: 0;
+    margin-top: 32px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #FFFFFF;
+}

@@ -1,0 +1,16 @@
+.motives__title{
+    max-width: 560px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 1.05;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+@media screen and (max-width: 1023px){
+    .motives__title{
+        font-size: 32px;
+    }
+}
