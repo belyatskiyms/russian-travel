@@ -1,12 +1,12 @@
 .cards__link{
     margin-top: 12px;
-    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 1.22;
     text-decoration-line: underline;
     color: #FFFFFF;
+    transition: opacity 1s;
 }
 .cards__link:hover{
     opacity: 0.8;

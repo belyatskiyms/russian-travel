@@ -1,4 +1,4 @@
-.galery{
+.gallery{
     padding-top: 92px;
     box-sizing: border-box;
     display: grid;
@@ -9,9 +9,10 @@
     margin: auto;
     text-align: center;
     justify-content: center;
+    font-family: 'Inter', Arial, sans-serif;
 }
 @media screen and (max-width: 1279px){
-    .galery{
+    .gallery{
         grid-template-columns: repeat(3, 300px);
         grid-template-rows: repeat(4, 225px);
         gap: 14px 14px;
@@ -19,7 +20,7 @@
 }
 
 @media screen and (max-width: 1023px){
-    .galery{
+    .gallery{
         padding-top: 88px;
         grid-template-columns: repeat(2, 352px);
         grid-template-rows: repeat(6, 264px);
@@ -27,8 +28,8 @@
     }
 }
 
-@media screen and (max-width: 779px){
-    .galery{
+@media screen and (max-width: 767px){
+    .gallery{
         padding-top: 64px;
         grid-template-columns: repeat(1, 288px);
         grid-template-rows: repeat(12, 216px);

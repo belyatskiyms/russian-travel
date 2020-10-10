@@ -3,7 +3,7 @@
     flex-direction: column;
     max-width: 456px;
 }
-@media screen and (max-width: 779px){
+@media screen and (max-width: 767px){
     .cards__links{
         display: none;
     }

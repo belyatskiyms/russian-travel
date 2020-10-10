@@ -16,7 +16,7 @@
         margin-right: 28px;
     }
 }
-@media screen and (max-width: 779px){
+@media screen and (max-width: 767px){
     .cards__image{
         width: 320px;
         height: 320px;

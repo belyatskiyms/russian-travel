@@ -1,7 +1,6 @@
 .cards__title{
     width: 460px;
     margin-right: 40px;
-    font-family: Inter;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -21,7 +20,7 @@
         margin-right: 28px;
     }
 }
-@media screen and (max-width: 779px){
+@media screen and (max-width: 767px){
     .cards__title{
         width: 288px;
         font-size: 32px;

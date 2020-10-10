@@ -4,7 +4,7 @@
 .footer__list-item:last-child{
     padding-right: 0;
 }
-@media screen and (max-width: 779px){
+@media screen and (max-width: 767px){
     .footer__list-item{
         padding-top: 32px;
         padding-right: 0;

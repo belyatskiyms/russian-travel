@@ -14,7 +14,7 @@
 **GitHub**
 
 * [Ссылка на репозиторий на GitHab](https://github.com/belyatskiyms/russian-travel.git)
-* [Ссылка на GitHub Pages](https://russian-travel.github.io/)
+* [Ссылка на GitHub Pages](https://belyatskiyms.github.io/russian-travel/)
 
 **Картинки**
 

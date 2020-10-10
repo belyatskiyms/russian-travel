@@ -8,6 +8,9 @@
     margin: auto;
     margin-top: 92px;
     background-color: rgba(42, 44, 47, 0.3);
+    font-family: 'Inter', Arial, sans-serif;
+    background-position: center center;
+    transition: background-color 1s;
 }
 .motives:hover{
     background-color: rgba(42, 44, 47, 0.8);
@@ -22,7 +25,7 @@
         min-height: 480px;
     }
 }
-@media screen and (max-width: 779px){
+@media screen and (max-width: 767px){
     .motives{
         min-height: 200px;
         margin-top: 64px;

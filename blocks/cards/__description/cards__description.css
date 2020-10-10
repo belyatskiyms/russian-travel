@@ -1,6 +1,5 @@
 .cards__description{
-    max-width: 456px;
-    font-family: Inter;
+    max-width: 484px;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -17,7 +16,7 @@
         max-width: 352px;
     }
 }
-@media screen and (max-width: 779px){
+@media screen and (max-width: 767px){
     .cards__description{
         max-width: 288px;
         margin-top: 32px;

@@ -1,4 +1,5 @@
 .travels__cover{
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
